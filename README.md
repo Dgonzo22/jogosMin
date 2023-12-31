@@ -1,0 +1,2 @@
+# jogosMin
+proyecto en flask
